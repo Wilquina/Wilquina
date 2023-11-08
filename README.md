@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋🏼, I'm William! 💻
+I'm passionate about technology, and the way it helps people work better, faster, and smarter. Currently working as a Senior Backend Developer and looking for opportunities to help businesses develop better products and experiences through web technologies. Get in touch at: 📧 wilquinavarro@gmail.com
+
+⚡️ Quick facts
+💻 Stack: Java, Python, React, Javascript, MySQL
+📖 Diving into: NextJS, Node, Generative AI
+🔭 I’m currently working on: AI Services
+🗓️ 10+ years of Dev experience
 
 <!--
 **Wilquina/Wilquina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
